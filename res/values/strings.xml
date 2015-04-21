@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">携源微信管家</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="accountSpinnerLabel">Account</string>
+    <string name="addContactButtonLabel">Add Contact</string>
+    <string name="addContactTitle">Add Contact</string>
+    <string name="allAccounts">All Accounts</string>
+    <string name="contactCreationFailure">Contact creation failed, check logs.</string>
+    <string name="contactEmailLabel">Contact Email</string>
+    <string name="contactNameLabel">Contact Name</string>
+    <string name="contactPhoneLabel">Contact Phone</string>
+    <string name="save">Save</string>
+    <string name="selectAccountLabel">Select</string>
+    <string name="selectLabel">Select label</string>
+    <string name="showInvisible">Show Invisible Contacts (Only)</string>
+    <string name="targetAccountLabel">Target Account</string>
+    <string name="undefinedTypeLabel">(Undefined)</string>
+    <string name="accoutDescription">帐户头像</string>
+    <string name="addAccountButtonLabel">增加账户</string>
+    <string name="hello">Hello World!</string>
+    <string name="native_machine">本机</string>
+    <string name="ACCOUNT_TYPE">com.google</string>
+    <string name="ACCOUNT_LABEL">Canofsleep Account</string>
+    
+    <string name="userName">USERNAME</string>
+	<string name="passWord">PASSWORD</string>
+	<string name="userInfo">USERINFO</string>
+</resources>
